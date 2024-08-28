@@ -1,0 +1,28 @@
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.deps.json
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.runtimeconfig.json
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.pdb
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\refint\SistemaVenta.Model.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.pdb
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\ref\SistemaVenta.Model.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.deps.json
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.runtimeconfig.json
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.pdb
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\refint\SistemaVenta.Model.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.pdb
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\ref\SistemaVenta.Model.dll

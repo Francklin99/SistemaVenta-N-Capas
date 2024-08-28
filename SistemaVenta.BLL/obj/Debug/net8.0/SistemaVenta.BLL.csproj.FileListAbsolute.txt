@@ -1,0 +1,42 @@
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.BLL.deps.json
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.BLL.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.BLL.pdb
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\refint\SistemaVenta.BLL.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.pdb
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\ref\SistemaVenta.BLL.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DAL.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DTO.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Model.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Utility.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DAL.pdb
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Model.pdb
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaV.93BC7325.Up2Date
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.BLL.deps.json
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.BLL.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.BLL.pdb
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DAL.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DTO.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Model.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Utility.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DAL.pdb
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Model.pdb
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaV.93BC7325.Up2Date
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\refint\SistemaVenta.BLL.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.pdb
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\ref\SistemaVenta.BLL.dll

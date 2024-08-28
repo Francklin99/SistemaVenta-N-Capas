@@ -1,0 +1,46 @@
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.IOC.deps.json
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.IOC.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.IOC.pdb
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.AssemblyInfoInputs.cache
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.AssemblyInfo.cs
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\refint\SistemaVenta.IOC.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.pdb
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\ref\SistemaVenta.IOC.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.DAL.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.Model.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.DAL.pdb
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.Model.pdb
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.csproj.AssemblyReference.cache
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaV.CF7CC950.Up2Date
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.BLL.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.DTO.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.Utility.dll
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.BLL.pdb
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+C:\Users\Frank\source\repos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.IOC.deps.json
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.IOC.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.IOC.pdb
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.BLL.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.DAL.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.DTO.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.Model.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.Utility.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.BLL.pdb
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.DAL.pdb
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.Model.pdb
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.csproj.AssemblyReference.cache
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.AssemblyInfoInputs.cache
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.AssemblyInfo.cs
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaV.CF7CC950.Up2Date
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\refint\SistemaVenta.IOC.dll
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.pdb
+C:\Users\Frank\Desktop\ANGULA + ASP.NET SistemaVenta\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\ref\SistemaVenta.IOC.dll
